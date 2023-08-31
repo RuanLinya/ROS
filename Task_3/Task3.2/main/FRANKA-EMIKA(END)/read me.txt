@@ -1,0 +1,5 @@
+Open FrankaGUI.m and click Run. 
+
+In the GUI interface you can adjust the joint angles, 
+after the adjustment click on "Att1Set" at the bottom right, 
+then click on "Go", you can see the gripping of the robot arm.
