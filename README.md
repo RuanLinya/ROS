@@ -1,6 +1,3 @@
-# Team_H
-
-## To run , you have to...
 ## Software
 
 + CoppeliaSim 
