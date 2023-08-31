@@ -71,8 +71,6 @@ local fileName, err = io.open ("//Mac/Home/Desktop/Task1.2/date/Cartesian_poses.
 
 ## Task 2.2 Joint obstacle avoidance - exploiting null space
 
-+ open [Task2.2.ttt](Task_2/Task2.2/Task2.2.ttt)
-```
 Train scenario : 2 obstacle balls with 3 cameras  
 
 <img width="462" alt="image" src="https://github.com/RuanLinya/ROS/assets/133128176/fea3909d-d0dc-4ab4-b697-a0ef4f43dc66">
@@ -85,7 +83,8 @@ Train scenario : 2 obstacle balls with 3 cameras
 
 ![image](https://github.com/RuanLinya/ROS/assets/133128176/24ba10b7-38e2-49a9-9856-37539298b4cf)
 
-
++ open [Task2.2.ttt](Task_2/Task2.2/Task2.2.ttt)
+```
 -- The end of the robotic arm grabs the cylinder and does not move. 
 -- The ball randomly appears in the space.
 -- Then all the joints of the robotic arm make plans in the 0 space to avoid obstacles.
