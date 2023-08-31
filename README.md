@@ -73,6 +73,19 @@ local fileName, err = io.open ("//Mac/Home/Desktop/Task1.2/date/Cartesian_poses.
 
 + open [Task2.2.ttt](Task_2/Task2.2/Task2.2.ttt)
 ```
+Train scenario : 2 obstacle balls with 3 cameras  
+
+<img width="462" alt="image" src="https://github.com/RuanLinya/ROS/assets/133128176/fea3909d-d0dc-4ab4-b697-a0ef4f43dc66">
+
+
+<img width="612" alt="image" src="https://github.com/RuanLinya/ROS/assets/133128176/83f75709-cb92-4371-a305-2b66a3bcdda5">
+
+![image](https://github.com/RuanLinya/ROS/assets/133128176/2f2eeb3e-9187-4eff-ab3f-55d7218150bc)
+
+
+![image](https://github.com/RuanLinya/ROS/assets/133128176/24ba10b7-38e2-49a9-9856-37539298b4cf)
+
+
 -- The end of the robotic arm grabs the cylinder and does not move. 
 -- The ball randomly appears in the space.
 -- Then all the joints of the robotic arm make plans in the 0 space to avoid obstacles.
