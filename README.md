@@ -71,10 +71,11 @@ local fileName, err = io.open ("//Mac/Home/Desktop/Task1.2/date/Cartesian_poses.
 
 ## Task 2.2 Joint obstacle avoidance - exploiting null space
 
-Train scenario : 2 obstacle balls with 3 cameras  
+1. Train scenario : 2 obstacle balls with 3 cameras  
 
 <img width="462" alt="image" src="https://github.com/RuanLinya/ROS/assets/133128176/fea3909d-d0dc-4ab4-b697-a0ef4f43dc66">
 
+2. RLBench: Robot Learning Benchmark
 
 <img width="612" alt="image" src="https://github.com/RuanLinya/ROS/assets/133128176/83f75709-cb92-4371-a305-2b66a3bcdda5">
 
